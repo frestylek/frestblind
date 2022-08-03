@@ -11,6 +11,9 @@ fresConfig.jobs = {
     [TEAM_HOBO] = true, -- Here is template for blinded jobs
 }
 ```
+## additionally you can add swep to job that throw rocks <br> deal no dmg and can be used to emit sounds
+"frest_rock"
+
 
 Contact: <br>
 - Discord: [link](https://discord.gg/3VtCsUvAFf) <br>
