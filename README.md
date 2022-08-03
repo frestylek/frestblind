@@ -12,7 +12,7 @@ fresConfig.jobs = {
 }
 ```
 ## additionally you can add swep to job that throw rocks <br> deal no dmg and can be used to emit sounds
-"frest_rock"
+weapon: "frest_rock"
 
 
 Contact: <br>
